@@ -10,7 +10,7 @@ from datetime import date
 # Page & Title
 # ----------------------------
 st.set_page_config(page_title="SMA Crossover Backtest", layout="wide")
-st.title("📈 SMA Crossover Backtesting with VectorBT")
+st.title("📈 SMA Crossover Backtesting")
 
 # ----------------------------
 # Cache the data
