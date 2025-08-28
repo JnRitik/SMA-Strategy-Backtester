@@ -4,3 +4,4 @@ pandas
 numpy
 vectorbt
 plotly
+anywidget
