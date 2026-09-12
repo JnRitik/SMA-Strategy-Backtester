@@ -2,6 +2,7 @@ streamlit
 yfinance
 pandas
 numpy
-vectorbt
-plotly
-anywidget
+vectorbt==0.25.2
+plotly==5.15.0
+numba==0.58.1
+llvmlite==0.41.1
